@@ -1,0 +1,9 @@
+.fgroup {
+  display: grid;
+  gap: 8px;
+}
+
+.col2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
